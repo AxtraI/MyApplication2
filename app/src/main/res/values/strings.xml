@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyRandomFilmApplication</string>
+    <string name="next">NextFilm</string>
+    <string name="reset">Try again</string>
+    <string-array name="movies">
+        <item>Бременские Музыканты</item>
+        <item>Ирония судьбы, или С легким паром!</item>
+        <item>Такси</item>
+        <item>Матрица</item>
+        <item>Побег из Шоушенко</item>
+        <item>Кавказская Пленница</item>
+        <item>Дитя погоды</item>
+        <item>Дэдпул</item>
+        <item>Логан</item>
+        <item>Константин</item>
+        <item>Девушка с татуировкой дракона</item>
+    </string-array>
+
+</resources>
